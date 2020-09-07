@@ -9,14 +9,15 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [X] All Unit tests passed.
+- [X] filled out the self-evaluation.
+- [X] filled out the self-reflection.
 
 ## Self-Evaluation: 
-how many points out of 20 do you deserve on this assignment: 
+how many points out of 20 do you deserve on this assignment: 20
 
 ## Self-Reflection:
-
+Need to get the sytnax for JS down, differences from Type Script.
 
 ### How long it took me to finish this?
+2 hours. Array syntax got me, took breaks. 
